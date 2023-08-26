@@ -1,3 +1,6 @@
+import Interface.Item;
+import Interface.Manufacturer;
+
 public abstract class Shirt implements Item {
 
     @Override

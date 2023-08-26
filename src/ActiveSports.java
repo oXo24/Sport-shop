@@ -1,3 +1,5 @@
+import Interface.Manufacturer;
+
 public class ActiveSports implements Manufacturer {
 
     @Override

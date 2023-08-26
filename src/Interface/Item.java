@@ -1,3 +1,5 @@
+package Interface;
+
 public interface Item {
     String name();
     Manufacturer manufacturer();
